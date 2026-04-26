@@ -4,14 +4,12 @@
 @import utils, basic, layout, classes, rouge_github
 
 body
-  background: light(93)
-  background: light(93, 16)
+  background: light-dark(#fffaf3, #0b0f19)
   padding: 0 calc(38% - 22rem)
 
 body > *
-  background: light(100)
-  background: light(100, 17)
-  color: light(0, 100)
+  background: light-dark(#ffffff, #0b0f19)
+  color: light-dark(#111827, #e5e7eb)
   padding: 1.75em calc(22% - 6rem)
   padding: clamp(1.5em, 4vw, 1.75em) max(1.5em, 22% - 6rem)
   box-shadow: 0 -1px gray(10) inset, 0 0 1em light-dark(gray(10), transparent), 0 0 0 1px light-dark(transparent, light(26))
