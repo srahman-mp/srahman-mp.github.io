@@ -1,8 +1,9 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "My blog"
+title: "PhyHouse"
+author: "SR"
+description: "A blog for my idiosynchratic physics/math posts."
 permalink: /:title/
 lang: "en"
+mathjax: true
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
@@ -23,7 +24,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:author@example.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
+  - {title: Github, icon: github, url: "https://srahman-mp.github.io"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
