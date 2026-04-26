@@ -15,4 +15,4 @@ $$
 S = \frac{A}{4 G \hbar}
 $$
 
-And something in-line: $E=\hbar\omega$ and $E=mc^2$.
+And something in-line: $ E=\hbar\omega $ and $ E=mc^2 $.
