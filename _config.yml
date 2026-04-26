@@ -19,8 +19,8 @@ show_frame: "/assets/images/background.svg"
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {file: "archive.html", sidebaricon: home}
   - {file: "README.md", sidebaricon: address-card}
+  - {file: "archive.html", sidebaricon: home}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:author@example.com"}
