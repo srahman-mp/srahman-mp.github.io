@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "My First Physics Post"
+mathjax: true
 ---
 
 Here is an equation:
