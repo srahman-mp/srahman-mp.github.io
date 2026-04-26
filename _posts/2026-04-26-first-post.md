@@ -11,8 +11,8 @@ $$
 
 And something more interesting:
 
-$$
+\[
 S = \frac{A}{4 G \hbar}
-$$
+\]
 
-And something in-line: $ E=\hbar\omega $ and $ E=mc^2 $ and a macro $\mb R, \R$.
+And something in-line: $ E=\hbar\omega $ and \( E=mc^2 \) and a macro $\mb R, \R$.
